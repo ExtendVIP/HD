@@ -31,6 +31,8 @@ https://di5v91i87riar.cloudfront.net/slot/1/fronts.woff2?560161
 https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8
 #EXTINF:-1 group-title="مونديال 26", Live 16
 https://stream-lb.livemedia.ma/arryadia/hls/master.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 17
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641605.ts
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
