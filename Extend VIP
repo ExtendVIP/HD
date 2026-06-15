@@ -12,21 +12,21 @@ http://hk.extend2.shop:80/13886599204504/24943580878503/851436
 #EXTINF:-1 group-title="مونديال 26", Live 6
 http://hk.extend2.shop:80/13886599204504/24943580878503/851437
 #EXTINF:-1 group-title="مونديال 26", Live 7
-https://bluesport.fun/live/blue_sport_1/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 8
-https://bluesport.fun/live/blue_sport_2/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 9
 http://185.160.192.14/live/206923845871/mI45UxamwN/255224.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 10
-http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 11
-http://104.168.93.100/iptv/play.php?id=shawkat.alwan1
-#EXTINF:-1 group-title="مونديال 26", Live 12
+#EXTINF:-1 group-title="مونديال 26", Live 8
 https://ndlive.host247.net/live/shna3/playlist.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 13
-http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 14
+#EXTINF:-1 group-title="مونديال 26", Live 9
 https://cdn.karwan.tv/shna-tv-3/index.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 10
+https://bluesport.fun/live/blue_sport_1/index.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 11
+https://bluesport.fun/live/blue_sport_2/index.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 12
+http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 13
+http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 14
+http://104.168.93.100/iptv/play.php?id=shawkat.alwan1
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
