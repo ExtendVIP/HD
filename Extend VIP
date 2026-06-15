@@ -39,6 +39,8 @@ http://104.168.93.100/iptv/play.php?id=shawkat.alwan1
 https://live.kooran16.cfd/tist3/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", Live 21
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6O0B3iyoy-cVzGuZQgQ_MF1XS5Y4dBrkqPewzMVzZQfCNKgZlOriGxh18LAqfbazSKD4UHP2av-opIP9zut3Tw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="مونديال 26", Live 22
+https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
