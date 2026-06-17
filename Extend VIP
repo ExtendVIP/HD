@@ -36,6 +36,10 @@ https://cdn.karwan.tv/biner-zaxo/index.m3u8
 https://live.kooran25.cfd/yooese1/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", Live 18
 https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 19
+https://www.darisoft.shop//alwan_1_4k/mono.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 20
+https://www.darisoft.shop//alwan_2_4k/mono.m3u8
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
@@ -255,6 +259,8 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Family", IRIB 4K UHD
 https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
+#EXTINF:-1 group-title="Family", IRIB 4K UHD *
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 group-title="Family", Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 group-title="Family", Travel 4K
