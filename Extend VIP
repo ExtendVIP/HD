@@ -40,6 +40,8 @@ https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 https://www.darisoft.shop//alwan_1_4k/mono.m3u8
 #EXTINF:-1 group-title="مونديال 26", Live 20
 https://www.darisoft.shop//alwan_2_4k/mono.m3u8
+#EXTINF:-1 group-title="مونديال 26", Live 21
+http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
