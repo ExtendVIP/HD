@@ -22,19 +22,15 @@ https://bluesport.fun/live/blue_sport_1/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", Live 11
 https://bluesport.fun/live/blue_sport_2/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", Live 12
-https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 13
-https://live-aburayhan1107.telewebion.ir/ek/faratar/live/108050p/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 14
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/NwhlonvK2Z5geeyfmo6FaUhJu2aQobwruLtRhqpfLrOM1JUB_eCvrijQ-GVfA7SC_b_01QwMrRjTkrksJLScJA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 group-title="مونديال 26", Live 15
+#EXTINF:-1 group-title="مونديال 26", Live 13
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/OBTyAhMHvcYKTSOAcks7CNy-vvFIbvJmlqjXpTGG25aib4hDiyihN9BxP3GhioIjOVqT7VKozdef_PsxwDXj2A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 https://stream.kurdtv.live/bein-max-ss-2/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 16
+#EXTINF:-1 group-title="مونديال 26", Live 14
 https://cdn.karwan.tv/biner-zaxo/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 17
+#EXTINF:-1 group-title="مونديال 26", Live 15
 https://live.kooran25.cfd/yooese1/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", Live 18
+#EXTINF:-1 group-title="مونديال 26", Live 16
 https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
@@ -251,3 +247,5 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Family", At Home With Family Handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Family", IRIB 4K UHD
+https://live-aburayhan1101.telewebion.ir/ek/faratar/live/2160p/index.m3u8
