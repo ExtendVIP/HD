@@ -20,9 +20,9 @@ http://185.160.192.14/live/206923845871/mI45UxamwN/255224.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 10
 http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 11
-http://185.160.192.14/live/206923845871/mI45UxamwN/255226.m3u8
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 12
 http://185.160.192.14/live/206923845871/mI45UxamwN/255227.m3u8
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 12
+http://185.160.192.14/live/206923845871/mI45UxamwN/255226.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 13
 http://185.160.192.14/live/206923845871/mI45UxamwN/255228.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 14
@@ -32,11 +32,11 @@ http://185.160.192.14/live/206923845871/mI45UxamwN/255230.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 16
 https://stream.kurdtv.live/bein-max-ss-2/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 17
-https://stream.liveostora.com/sportinaapp1/index.m3u8
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 18
 https://ndlive.host247.net/live/shna3/playlist.m3u8
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 18
+https://stream.liveostora.com/sportinaapp1/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 19
-https://cdn.karwan.tv/biner-zaxo/index.m3u8
+http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8https://cdn.karwan.tv/biner-zaxo/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 20
 https://live.kooran25.cfd/yooese1/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 21
@@ -52,7 +52,7 @@ https://23370wa.xyz/play/BMoDRXtRtbrnsYhxpeoI7nUUlBeGgd9sI7PeKoSQ0Tg/ts
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 26
 https://worldcup.dzandz496.workers.dev/BNMAX4KHDR.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 27
-http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8
+
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
