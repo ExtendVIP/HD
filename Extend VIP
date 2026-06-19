@@ -43,6 +43,14 @@ https://stream.liveostora.com/sportinaapp1/index.m3u8
 http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 23
 https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 24
+https://stream.liveostora.com/sportinaapp1/index.m3u8
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 25
+https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 26
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 27
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/U2J9N1ofkmXzx1HlU_Ux94PQR74G_hY0oOGEncsuPKmJplMtV7LdOZJAS--y5UI_XLk36lXCN2RgIX17mwKKHA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
