@@ -20,19 +20,19 @@ https://stream.liveostora.com/sportinaapp1/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 10
 https://stream.liveostora.com/sportinaapp2/index.m3u8
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 11
-http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248612
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 12
-http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248618
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 13
 http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/237014
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 14
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 12
 http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/237017
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 15
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 13
 http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/237018
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 16
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 14
 http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248153
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 17
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 15
 http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 16
+http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248612
+#EXTINF:-1 group-title="مونديال 26", LIVE VIP 17
+http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248618
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 18
 https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
