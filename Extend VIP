@@ -29,14 +29,6 @@ http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/237014
 http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248153
 #EXTINF:-1 group-title="مونديال 26", LIVE VIP 15
 http://maveniptv.net:8080/live/eslamnasr/Eslam@2011/390814.m3u8
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 16
-http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248612
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 17
-http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248618
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 18
-https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 group-title="مونديال 26", LIVE VIP 19
-http://2030.buzz-4k.xyz/live/56272882873737/xh3agpq1cm/1950411.m3u8
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
@@ -81,6 +73,12 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28268.ts
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
 #EXTINF:-1 group-title="SPORT", beIN SPORTS 9 $
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
+#EXTINF:-1 group-title="SPORT", beIN SPORTS Live $
+http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248612
+#EXTINF:-1 group-title="SPORT", beIN SPORTS Live $
+http://my.atrupo4k.com:8080/5cc1d7be2987/7sneVsqXGUuilW3/248618
+#EXTINF:-1 group-title="SPORT", beIN SPORTS Live $
+https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="SPORT", Alkass 5 $
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 group-title="SPORT", Alkass 6 $
