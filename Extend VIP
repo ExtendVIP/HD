@@ -229,13 +229,13 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 #EXTINF:-1 group-title="Family", Terra Mater WILD
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 group-title="Family", WildEarth
+#EXTINF:-1 group-title="Family", Wild Earth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 group-title="Family", Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="Family", IN WILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="Family", NatureTime
+#EXTINF:-1 group-title="Family", Nature Time
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Family", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -243,8 +243,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 group-title="Family", Travel Escapes
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Family", InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 group-title="Family", Travel 4K
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Family", CCTV 4K
