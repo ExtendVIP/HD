@@ -25,29 +25,29 @@ https://cp11.adabmedia.com/hls2/sport.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="VIP TV", VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 1 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 2 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 2 $
 http://hk.extend2.shop/13886599204504/24943580878503/568779
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 3 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 3 $
 http://hk.extend2.shop/13886599204504/24943580878503/568780
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 4 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 4 $
 http://hk.extend2.shop/13886599204504/24943580878503/568781
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 5 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 5 $
 http://hk.extend2.shop/13886599204504/24943580878503/568782
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 6 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 6 $
 http://hk.extend2.shop/13886599204504/24943580878503/568783
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 7 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 7 $
 http://hk.extend2.shop/13886599204504/24943580878503/568784
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 8 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 8 $
 http://hk.extend2.shop/13886599204504/24943580878503/568785
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 9 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 9 $
 http://hk.extend2.shop/13886599204504/24943580878503/568786
-#EXTINF:-1 group-title="SPORT", ALWAN SPORT 10 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", ALWAN SPORT 10 $
 http://hk.extend2.shop/13886599204504/24943580878503/568787
-#EXTINF:-1 group-title="SPORT", Alwan 1 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", Alwan 1 $
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660.ts
-#EXTINF:-1 group-title="SPORT", Alwan 2 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORT", Alwan 2 $
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663.ts
 #EXTINF:-1 group-title="SPORT", beIN SPORTS 1 $
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
