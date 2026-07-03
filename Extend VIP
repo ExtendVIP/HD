@@ -18,14 +18,8 @@ http://hk.extend2.shop:80/13886599204504/24943580878503/851437
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 9
 http://195.182.16.45:8080/live/115581720170/135965685413/460861.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 10
-https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 11
-https://cp11.adabmedia.com/hls2/sport.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 12
 http://195.182.16.45:8080/live/115581720170/135965685413/460864.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 13
-http://195.182.16.45:8080/live/omar777/01103978590/460865.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 14
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP 11
 http://195.182.16.45:8080/live/omar777/01103978590/460864.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/qo75z5.png" group-title="مونديال", LIVE VIP Test 1
 http://2030.buzz-4k.xyz/live/56272882873737/xh3agpq1cm/1950411.ts
