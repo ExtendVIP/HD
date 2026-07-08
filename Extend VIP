@@ -295,3 +295,20 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 1
+https://list.iptvcat.com/my_list/s/0ede12f538a94e97038ca6de178d8bf8.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 2
+https://list.iptvcat.com/my_list/s/389d7d624451d7f12654e10d2b4e86ad.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 3
+https://list.iptvcat.com/my_list/s/d752b4c4403df7b486bd22895119b8d0.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 4
+https://list.iptvcat.com/my_list/s/79780cbcb0b665e52e447427a67bc5ee.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 5
+https://list.iptvcat.com/my_list/s/e5c37e95d7cfd7122d2b5183d7982601.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 6
+https://list.iptvcat.com/my_list/s/bbee30f588f9f9546103afcaf40bcaf8.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 7
+https://list.iptvcat.com/my_list/s/49b72b8ab1b3b7f4e207883b08b86a36.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 8
+https://list.iptvcat.com/my_list/s/c4617a23c58767368691cabdc6c9689b.m3u8
+
