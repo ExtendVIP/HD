@@ -207,6 +207,16 @@ https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/4001/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Roya Kitchen
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Tom And Jerry
@@ -275,8 +285,6 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", CCTV 4K
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/4001/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", IRIB 4K UHD
 https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", IRIB 4K UHD.
