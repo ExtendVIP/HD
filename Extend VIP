@@ -217,8 +217,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", NBC
@@ -303,8 +301,4 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 1
-https://tv-show.medya.show.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 2 
-https://tv-showtv.medya.show.com.tr/master.m3u8
 
