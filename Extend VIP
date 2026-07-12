@@ -339,5 +339,13 @@ https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 12
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 12
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 13
 https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 14
+https://list.iptvcat.com/my_list/s/37df170e24910320d1122c4b825dc76e.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 15
+https://list.iptvcat.com/my_list/s/e36384077124fbdc37d81a4e2191197d.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 16
+https://list.iptvcat.com/my_list/s/f08e647f10f9be7fea9808e57170826b.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 17
+https://list.iptvcat.com/my_list/s/7f71c785e9d5760edd80d6169917fb11.m3u8
