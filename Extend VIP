@@ -327,3 +327,17 @@ http://ch14.tv/live/ch4teen1/playlist.m3u8
 http://ch14.tv/live/ch4teenkids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 6
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 7
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 8
+http://31.148.48.15/KBS_World/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 9
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 10
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 11
+http://mytv.dothome.co.kr/ch/catv/26.php
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 12
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 12
+https://korhls.persiana.live/hls/stream.m3u8
