@@ -39,6 +39,8 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28268.ts
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/9enegq.png" group-title="SPORTS", beIN SPORTS 9 $
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/9enegq.png" group-title="SPORTS", beIN 4K $
+http://mavpro.xyz/live/8454745cdsdw/8455144xsfdd/405509.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 1 $
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 2 $
