@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 1 $
-http://hk.extend2.shop/13886599204504/24943580878503/568778/index.m3u8
+http://hk.extend2.shop/13886599204504/24943580878503/568778
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 2 $
 http://hk.extend2.shop/13886599204504/24943580878503/568779
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 3 $
@@ -39,8 +39,6 @@ http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28268.ts
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/9enegq.png" group-title="SPORTS", beIN SPORTS 9 $
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/9enegq.png" group-title="SPORTS", beIN 4K $
-http://mavpro.xyz/live/8454745cdsdw/8455144xsfdd/405509.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 1 $
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 2 $
@@ -120,7 +118,7 @@ http://hk.extend2.shop/13886599204504/24943580878503/568814
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Alwan Turkey
 http://hk.extend2.shop/13886599204504/24943580878503/568807
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Kanal D
@@ -253,5 +251,3 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Test 1
-http://mavpro.xyz/live/8454745cdsdw/8455144xsfdd/372599.ts
