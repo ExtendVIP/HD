@@ -12,7 +12,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC + Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family",Rotana Kalijiya
-http://mynlkn.vip/30182237906919/12192034497972/447410
+http://mynlkn.vip/34420579012963/27521467637556/447410
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC MASR
@@ -29,10 +29,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC VARIETY +
-http://be2.it.com/4876532578/876876454/479718
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC Action
-http://be2.it.com/4876532578/876876454/479714
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC 2
@@ -93,12 +89,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC IRAQ
-http://be2.it.com/4876532578/876876454/479729
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Roya Comedy
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Bab Alhara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Ajyal TV
@@ -111,8 +103,6 @@ http://stream.cammonitorplus.net/1800/index.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", 𝑻𝑶𝑴 & 𝑱𝑬𝑹𝑹𝒀
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC 3 KSA
-http://be2.it.com/4876532578/876876454/479706
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC 3 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Alwan Atfal
