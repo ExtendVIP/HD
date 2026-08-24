@@ -241,6 +241,34 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418123.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418126.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 1 $
 http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339223.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 1
+http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 2
+http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 3
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 4
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 5
+http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101899.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 6
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28264.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 7
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28265.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 8
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28266.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 9
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28267.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 10
+http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28268.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 11
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 12
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 13
+http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236877.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 14
+http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236882.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 1 $
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 2 $
@@ -271,27 +299,3 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Eleven Sports 4K $
 http://mirtvclub.kazaktelekom.com/iptv/HQUB3R853WQ9SC8RRHH2FS8T/20068/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 1
-http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236877.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 2
-http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236882.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 3
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 4
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 5
-http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101899.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 6
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28264.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 7
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28265.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 8
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28266.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 9
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28267.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 10
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28268.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 11
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 12
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
