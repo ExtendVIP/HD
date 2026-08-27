@@ -179,26 +179,50 @@ https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", English Club
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 1 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/568778
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 2 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 2 $
 http://hk.extend2.shop/13886599204504/24943580878503/568779
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 3 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 3 $
 http://hk.extend2.shop/13886599204504/24943580878503/568780
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 4 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 4 $
 http://hk.extend2.shop/13886599204504/24943580878503/568781
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 5 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 5 $
 http://hk.extend2.shop/13886599204504/24943580878503/568782
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 6 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 6 $
 http://hk.extend2.shop/13886599204504/24943580878503/568783
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 7 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 7 $
 http://hk.extend2.shop/13886599204504/24943580878503/568784
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 8 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 8 $
 http://hk.extend2.shop/13886599204504/24943580878503/568785
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 9 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 9 $
 http://hk.extend2.shop/13886599204504/24943580878503/568786
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", ALWAN SPORT 10 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORT 10 $
 http://hk.extend2.shop/13886599204504/24943580878503/568787
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 1 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 2 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 3 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 4 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 5 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181672
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 6 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181675
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", alwan sport 1 $
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418111.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", alwan sport 2 $
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418114.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", alwan sport 3 $
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418117.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", alwan sport 4 $
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418120.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", alwan sport 5 $
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418123.ts
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", alwan sport 6 $
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418126.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", See SPORT 1 $
 http://hk.extend2.shop/13886599204504/24943580878503/639135
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", See SPORT 2 $
@@ -215,30 +239,6 @@ http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/358224.ts
 http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/358229.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Dasinya SPORT $
 http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/358230.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sport 1 $
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sport 2 $
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sport 3 $
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sport 4 $
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sport 5 $
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181672
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sport 6 $
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181675
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", alwan sport 1 $
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418111.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", alwan sport 2 $
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418114.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", alwan sport 3 $
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418117.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", alwan sport 4 $
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418120.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", alwan sport 5 $
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418123.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", alwan sport 6 $
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418126.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 1
 http://gooon.tv:8080/play/link/52ee014d-873c-45e0-8317-965b425d1472/eyJpdiI6Ikp5VGpOSk5lQitRanJVYWZ5Q3pYaUE9PSIsInZhbHVlIjoiZFVmdW8zbjhCQUpha3Y2Wm41UktMa3hLd0VjZkRSWWRGaXN3aTIwSFZXRWFjbytmcHlmZnNkRnRvaG1xNFFSaCIsIm1hYyI6IjE5MTQxNGI1NjRjOTVjNmY5YTEwOTU1M2NjMWZmYjhiZTJmYzQ2Zjk4OGM5OTZlNDc2ODczZTEzMWQ4MjU2ZGUiLCJ0YWciOiIifQ==.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 2
@@ -262,49 +262,15 @@ http://185.191.126.127:8080/live/////////////////////////////b0:99:d7:15:88:50/3
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 11
 http://185.191.126.127:8080/live/////////////////////////////b0:99:d7:15:88:50/3090914536649669/318205.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 12
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28262.ts
+http://tv-fast.xyz:8080/live/eltanbouli20/01013050497/557036.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 13
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798772&extension=ts
+http://tv-fast.xyz:8080/live/eltanbouli20/01013050497/557040.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 14
-http://185.229.240.112:1991/live/UKIPTV/WKtEIQ1o2s/101899.ts
+http://tv-fast.xyz:8080/live/eltanbouli20/01013050497/557044.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 15
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28264.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 16
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28265.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 17
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28266.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 18
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28267.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 19
-http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/28268.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 20
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798793&extension=ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 21
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:40:2B&stream=798794&extension=ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 22
 http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236877.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 23
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", LIVE 16
 http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236882.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 1 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339213.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 2 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339214.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 3 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339215.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 4 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339216.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 5 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339217.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 6 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339218.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 7 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339219.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 8 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339220.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 9 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339221.ts
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="SPORTS", Alwan Sports 10 $
-http://lynovo.cc/live/407F2F55785345F/xiAYSAZIpR/1339222.ts
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 1 $
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", SHOOF 2 $
