@@ -29,25 +29,17 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="Family", MBC IRAQ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="Family", Qatar
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="Family", Qatar 2
-https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="Family", AlRayyan
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="Family", AlRayyan Qadeim
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/v46l1n.webp" group-title="Family", Kuwait
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="Family", Jordan Drama
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="Family", LBC International
+http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Family", Bab Alhara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Family", MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family", MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", MBC Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Family", MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OWZAghw.png" group-title="Family", MBC Action
 http://s.otbnver.club/live/nova10457/52914018247/1644.m3u8
@@ -55,7 +47,7 @@ http://s.otbnver.club/live/nova10457/52914018247/1644.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Family", Movies
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Movies Thriller
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Family", Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/kaeugl.png" group-title="Family", Netflix Action
 http://vlcdc.org/live/lYG1EKR6m8/uXcRu8sQ2S/63222.m3u8
@@ -67,17 +59,23 @@ http://vlcdc.org/live/lYG1EKR6m8/uXcRu8sQ2S/63224.m3u8
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="Family", Qatar
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="Family", Qatar 2
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="Family", AlRayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="Family", AlRayyan Qadeim
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/v46l1n.webp" group-title="Family", Kuwait
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Family", TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Family", ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Kanal D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Family", Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Euro D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", TRT TURK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Family", TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
@@ -85,12 +83,12 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Trailers
 https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", 𝑻𝑶𝑴 & 𝑱𝑬𝑹𝑹𝒀
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Family", MBC 3 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Family", SpaceToon
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" group-title="Family", Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Happy Kids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="Family", Al Arabiya
@@ -109,6 +107,8 @@ https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 http://s.otbnver.club/live/nova10457/52914018247/1765.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Family", Madinah Sunnah
 http://s.otbnver.club/live/nova10457/52914018247/1766.m3u8
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="Family", Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", Shrqah Quran
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/1gazy6.png" group-title="Family", iqraa Quran
@@ -181,6 +181,14 @@ http://ntr.paixif.com/live/QQFY2N99/JXW7nGsg/1236893.m3u8
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Eleven Sports 4K $
 http://mirtvclub.kazaktelekom.com/iptv/HQUB3R853WQ9SC8RRHH2FS8T/20068/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="SPORTS", Eleven Sports 1 $
+http://92.114.85.87:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="SPORTS", Eleven Sports 2 $
+http://92.114.85.87:8002/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="SPORTS", Eleven Sports 3 $
+http://92.114.85.87:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS", Eleven Sports 4 $
+http://92.114.85.87:8002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Fox Sports $
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Match $
