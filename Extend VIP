@@ -203,4 +203,21 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Horse and Country $
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 1 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223635.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 2 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223639.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 3 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223647.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 4 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223651.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 5 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223655.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 6 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223659.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 7 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223663.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 8 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223667.m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/yxiehz.png" group-title="SPORTS", beIN SPORTS 9 $
+http://vip.istarpro.cyou/live/4CCS456098432/96218365220947/223671.m3u8
